@@ -1,0 +1,13 @@
+.wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 1rem 2rem;
+  font-size: 1.25rem;
+  border: none;
+  cursor: pointer;
+}
